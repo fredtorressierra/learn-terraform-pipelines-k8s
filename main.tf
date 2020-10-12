@@ -3,7 +3,7 @@ terraform {
     organization = "infrastructure-pipelines-workshop"
 
     workspaces {
-      name = "fred-t-consul"
+      name = "fred-t-k8s"
     }
   }
 }
